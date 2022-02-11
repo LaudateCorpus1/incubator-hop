@@ -31,7 +31,7 @@
   },
   "dependencies": {
     "asciidoctor": "^2.0.3",
-    "handlebars": "~4.4",
+    "handlebars": "~4.7",
     "toml": "~3.0",
     "unzipper": "~0.10",
     "yaml": "~1.7"
