@@ -41,7 +41,7 @@
         <!-- Test dependencies -->
         <mockito.version>1.10.19</mockito.version>
         <powermock.version>1.7.4</powermock.version>
-        <aws-java-sdk-s3.version>1.11.974</aws-java-sdk-s3.version>
+        <aws-java-sdk-s3.version>1.12.261</aws-java-sdk-s3.version>
         <aws-java-sdk-core.version>1.11.974</aws-java-sdk-core.version>
     </properties>
 
